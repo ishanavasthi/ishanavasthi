@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanavasthi&label=Profile%20views&color=0e75b6&style=flat" alt="ishanavasthi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanavasthi" alt="ishanavasthi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/heyavasthi" target="blank"><img src="https://img.shields.io/twitter/follow/heyavasthi?logo=twitter&style=for-the-badge" alt="heyavasthi" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://ishanavasthi.in](https://ishanavasthi.in)
 
 - 📝 I regularly write articles on [https://blog.ishanavasthi.in](https://blog.ishanavasthi.in)
@@ -38,8 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ishanavasthi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishanavasthi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanavasthi&show_icons=true&locale=en&layout=compact" alt="ishanavasthi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanavasthi&show_icons=true&locale=en" alt="ishanavasthi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanavasthi&theme=dark" alt="ishanavasthi" /></p>
