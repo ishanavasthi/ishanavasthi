@@ -18,8 +18,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ishanavasthi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanavasthi&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanavasthi&theme=tokyonight" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanavasthi&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
 ---
